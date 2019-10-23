@@ -1,0 +1,22 @@
+{
+  "name": "stf_basic",
+  "version": "1.0.0",
+  "description": "The stf_basic node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JurekDev/STF_basic.git"
+  },
+  "keywords": [
+    "stf"
+  ],
+  "author": "JurekDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JurekDev/STF_basic/issues"
+  },
+  "homepage": "https://github.com/JurekDev/STF_basic#readme"
+}
